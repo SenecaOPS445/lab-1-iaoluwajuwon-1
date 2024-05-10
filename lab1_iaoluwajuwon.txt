@@ -1,0 +1,8 @@
+OPS435 Lab Report - System Information for running ./CheckLab1.py
+=================================================================
+Traceback (most recent call last):
+  File "/home/iaoluwajuwon/ops445i/lab1/lab-1-iaoluwajuwon-1/./CheckLab1.py", line 262, in <module>
+    x = displayReportHeader()
+  File "/home/iaoluwajuwon/ops445i/lab1/lab-1-iaoluwajuwon-1/./CheckLab1.py", line 247, in displayReportHeader
+    print('    User login name:', os.getlogin())
+OSError: [Errno 6] No such device or address
